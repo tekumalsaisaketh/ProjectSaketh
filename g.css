@@ -393,6 +393,10 @@ td{
 }
 @media (min-width: 1001px)
 {
+	body{
+		margin: 0px !important;
+		height: 909.375px;
+	}
 	.white{
 		width: 38%;
 		font-size: 25px !important;
