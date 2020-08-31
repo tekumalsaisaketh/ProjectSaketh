@@ -164,6 +164,8 @@ body{
 	position: absolute;
 	left: 250px;
 	top: 0px;
+	margin-top: 0px;
+	margin-bottom: 15px;
 	
 }
 td{
