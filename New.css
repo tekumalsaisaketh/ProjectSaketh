@@ -1,0 +1,206 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	
+	font-size: 16px;
+	background-color: black;
+}
+.container{
+	background-color: #191917;
+	padding: 10px;
+	width: 90%;
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-right: 60px;
+	margin-left: 60px;
+
+}
+
+.box{
+	width: 70px;
+	height: 35px;
+	background-color: #FBBA09;
+	align-content: center ;
+	position: absolute;
+	left: 7%;
+	top: 18px;
+	padding: 2px;
+	
+
+	padding: 1px;
+	border-radius: 3px;
+	margin-bottom: -10px;
+	margin-right: 10px;
+
+}
+.peru{
+	text-align: center ;
+	font-size: 18px;
+	width: 65px;
+	
+	margin: 0px;
+	position: absolute;
+	top: 6.5px;
+	left: 0px;
+	right: 1px;
+	font-family: 'Roboto';
+	letter-spacing: 0.005px;
+	
+
+	color: black;
+}
+#small{
+	font-size: 14px;
+	font-weight: bold;
+	font-family: 'Roboto';
+}
+.peru:hover{
+	text-decoration: none;
+	color: black;
+}
+.white{
+	background-color: #E3E0D7;
+	width: 53%;
+	height: 34px;
+	text-align: center;
+	position: absolute;
+	left: 16.32%;
+	top: 18px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-radius: 	3px;
+
+	
+	
+}
+.port{
+	vertical-align: middle;
+	font-size: 25px;
+	position: absolute;
+	top: 0px;
+	left: 40%;
+	font-family: 'Roboto';
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+.btns{
+	width: 10%;
+	position: absolute;
+	right: 17%;
+	top: 18px;
+}
+
+.btns button{
+	
+	background-color: #191917;
+	color: white !important;
+	border: none;
+	font-size: 24px;
+	height: 34px;
+	padding: 0px;
+}
+#btn:hover {
+	text-decoration: none;
+	
+	background-color: #4B4A48;
+	
+	border-bottom: solid 2px #FBBA09;
+	border-radius: 3px;
+}
+#btn:active{
+	text-decoration: none;
+	
+	background-color: #4B4A48;
+	
+	border-bottom: solid 2px #FBBA09;
+	border-radius: 5px;
+
+}
+#btn a{
+	color: white;
+	text-decoration: none;
+
+}
+#btn a:hover a:active a:visited a:focus {
+	text-decoration: none;
+	color: white;}
+
+
+.icons{
+	
+	width: 15%;
+	height: 34px;
+	position: absolute;
+	right: 5px;
+	
+	top: 18px;
+	padding: 5px;
+}
+#insta{
+	
+	color: white;
+	font-size: 24px ;
+	position: absolute;
+	top: 5px;
+
+}
+#facebook{
+	
+	color: white;
+	font-size: 24px ;
+	position: absolute;
+	top: 5px;
+	left: 35px;
+
+
+}
+#twitter{
+	
+	color: white;
+	font-size: 24px ;
+	position: absolute;
+	top: 5px;
+	left:57px;
+
+}
+#info{
+	
+	color: white;
+	font-size: 24px ;
+	position: absolute;
+	top: 5px;
+	left: 90px;
+
+}
+#insta:hover{
+	text-decoration: none;
+	color: #FBBA09;
+}
+#facebook:hover{
+	text-decoration: none;
+	color: #FBBA09;
+}
+#twitter:hover{
+	text-decoration: none;
+	color: #FBBA09;
+}
+#info:hover{
+	text-decoration: none;
+	color: #FBBA09;
+}
+
+
+
+
+
+
+	
+	
+	
+
+	
+	
+
+
