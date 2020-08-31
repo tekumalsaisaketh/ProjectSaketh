@@ -398,6 +398,9 @@ td{
 		font-size: 25px !important;
 		font-weight: bold !important;
 		font-family: 'Roboto' ;
+		margin-top: 0px;
+		margin-bottom: 15px;
+		
 	}
 	.box2{
 		width: 40%;
